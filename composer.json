@@ -1,0 +1,16 @@
+{
+    "name": "h0bd0b1in/rehash",
+    "description": "A simple Composer \"package\" to rehash your composer.lock file.",
+    "type": "metapackage",
+    "minimum-stability": "stable",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stuart Honour",
+            "email": "stuart@nyttsoft.tech"
+        }
+    ],
+    "require": {
+        "php": ">=5.3"
+    }
+}
